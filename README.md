@@ -84,3 +84,6 @@ Here is the time and space complexity analysis for the algorithms listed in the 
   - Optimized backtracking: \(O(n^n)\)
 - **Space Complexity**: \(O(n)\) (recursion stack for backtracking)
 
+- ![image](https://github.com/user-attachments/assets/dcd816a4-54d2-4900-9875-72cce5c05861)
+
+
